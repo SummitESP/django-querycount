@@ -1,6 +1,7 @@
 Authors & Contributors
 ----------------------
 
+- Warren Smith `<mailto:warren@wandrsmith.net>`_
 - Brad Montgomery `<mailto:brad@bradmontgomery.net>`_
 - Morgan Phillips `<https://github.com/mrrrgn>`_
 - Alonisser `<https://github.com/alonisser>`_
